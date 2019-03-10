@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_oneplus_msm8998-common",
+    "target_path": "device/oneplus/msm8998-common",
+    "branch": "9.0"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch": "9.0-cheeseburger"
+  }
+]
