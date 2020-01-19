@@ -36,8 +36,5 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
-# Vendor Security Patch Level
-VENDOR_SECURITY_PATCH := 2019-06-05
-
 # inherit from the proprietary version
 -include vendor/oneplus/cheeseburger/BoardConfigVendor.mk
