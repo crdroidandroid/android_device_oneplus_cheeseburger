@@ -6,7 +6,6 @@
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_oneplus_cheeseburger",
-    "target_path": "vendor/oneplus/cheeseburger",
-    "branch": "lineage-22.0"
+    "target_path": "vendor/oneplus/cheeseburger"
   }
 ]
